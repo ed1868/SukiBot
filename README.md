@@ -1,0 +1,1 @@
+1. Sign Up for an Instagram developer account and create a new app. You can do this on the Instagram Developer website. This will give you access to the Instragram API and allow you to use i tto interact with your business account.
